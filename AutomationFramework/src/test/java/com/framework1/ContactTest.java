@@ -15,7 +15,6 @@ public class ContactTest {
 		System.out.println(BROWSER);
 		System.out.println(UN);
 		System.out.println(PWD);
-
 		System.out.println("Execute Create contact");
 
 	}
