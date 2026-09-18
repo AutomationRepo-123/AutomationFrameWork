@@ -11,7 +11,7 @@ public class ContactTest {
 		String UN = System.getProperty("username");
 		System.out.println(BROWSER);
 		System.out.println(UN);
-		
+
 		System.out.println("Execute Create contact");
 
 	}
@@ -19,6 +19,12 @@ public class ContactTest {
 	@Test
 	public void editContact() {
 		System.out.println("Execute edit contact");
+
+	}
+
+	@Test
+	public void deleteContact() {
+		System.out.println("Execute delete contact");
 
 	}
 }
