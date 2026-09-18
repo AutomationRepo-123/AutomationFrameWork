@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-09-18T10:06:53 IST" name="Surefire suite" finished-at="2026-09-18T10:06:53 IST" duration-ms="46">
+  <suite started-at="2026-09-18T10:37:36 IST" name="Surefire suite" finished-at="2026-09-18T10:37:36 IST" duration-ms="48">
     <groups>
     </groups>
-    <test started-at="2026-09-18T10:06:53 IST" name="Surefire test" finished-at="2026-09-18T10:06:53 IST" duration-ms="46">
+    <test started-at="2026-09-18T10:37:36 IST" name="Surefire test" finished-at="2026-09-18T10:37:36 IST" duration-ms="48">
       <class name="com.framework2.ProductTest">
-        <test-method signature="createProduct()[pri:0, instance:com.framework2.ProductTest@11a9e7c8]" started-at="2026-09-18T10:06:53 IST" name="createProduct" finished-at="2026-09-18T10:06:53 IST" duration-ms="1" status="PASS">
+        <test-method signature="createProduct()[pri:0, instance:com.framework2.ProductTest@3b07a0d6]" started-at="2026-09-18T10:37:36 IST" name="createProduct" finished-at="2026-09-18T10:37:36 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createProduct -->
-        <test-method signature="editProduct()[pri:0, instance:com.framework2.ProductTest@11a9e7c8]" started-at="2026-09-18T10:06:53 IST" name="editProduct" finished-at="2026-09-18T10:06:53 IST" duration-ms="1" status="PASS">
+        <test-method signature="editProduct()[pri:0, instance:com.framework2.ProductTest@3b07a0d6]" started-at="2026-09-18T10:37:36 IST" name="editProduct" finished-at="2026-09-18T10:37:36 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editProduct -->
       </class> <!-- com.framework2.ProductTest -->
       <class name="com.framework1.ContactTest">
-        <test-method signature="createContact()[pri:0, instance:com.framework1.ContactTest@358ee631]" started-at="2026-09-18T10:06:53 IST" name="createContact" finished-at="2026-09-18T10:06:53 IST" duration-ms="5" status="PASS">
+        <test-method signature="createContact()[pri:0, instance:com.framework1.ContactTest@233fe9b6]" started-at="2026-09-18T10:37:36 IST" name="createContact" finished-at="2026-09-18T10:37:36 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createContact -->
-        <test-method signature="deleteContact()[pri:0, instance:com.framework1.ContactTest@358ee631]" started-at="2026-09-18T10:06:53 IST" name="deleteContact" finished-at="2026-09-18T10:06:53 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- deleteContact -->
-        <test-method signature="editContact()[pri:0, instance:com.framework1.ContactTest@358ee631]" started-at="2026-09-18T10:06:53 IST" name="editContact" finished-at="2026-09-18T10:06:53 IST" duration-ms="0" status="PASS">
+        <test-method signature="editContact()[pri:0, instance:com.framework1.ContactTest@233fe9b6]" started-at="2026-09-18T10:37:36 IST" name="editContact" finished-at="2026-09-18T10:37:36 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editContact -->
